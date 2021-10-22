@@ -39,9 +39,9 @@ We provide integrated services for your AI needs:
 
 We deal with all types of multimedia data collection and annotation like images, videos, audio, text and surveys.
 
-**To download full datasets or to submit a request for your dataset needs, please contact **contact@datacluster.in****  
+**To download full datasets or to submit a request for your dataset needs, please contact **sales@datacluster.ai****  
 
-To download the full datasets, please contact [contact@datacluster.in](contact@datacluster.in).  
+To download the full datasets, please contact [sales@datacluster.ai](sales@datacluster.ai).  
 Visit [www.datacluster.in](www.datacluster.in) to know more.
     
 
